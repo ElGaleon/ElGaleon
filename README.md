@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ElGaleon
+- 👀 I’m interested in IT and UI/UX Design.
+- 🌱 I’m Computer Engineering Student at University of Bologna
